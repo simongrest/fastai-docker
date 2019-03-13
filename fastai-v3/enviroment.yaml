@@ -12,6 +12,7 @@ dependencies:
   - jupyter
   - pandas
   - joblib
+  - cv2
   - pip:
       - nvidia-ml-py3
       - dataclasses
