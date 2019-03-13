@@ -17,3 +17,4 @@ dependencies:
       - dataclasses
       - pandas
       - wheel
+      - opencv-python
