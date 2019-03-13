@@ -10,11 +10,10 @@ dependencies:
   - fastprogress
   - fastai
   - jupyter
-  - joblib
-  - opencv
   - pip:
       - nvidia-ml-py3
       - dataclasses
       - pandas
       - wheel
       - opencv-python
+      - joblib
